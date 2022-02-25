@@ -7,4 +7,5 @@ Use of libraries
 4. Android Jetpack component
 
 Design Pattern Used MVVM
+
 Code written in Kotlin
